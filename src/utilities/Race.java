@@ -1,14 +1,12 @@
-package model;
-
-import java.util.List;
+package utilities;
 
 /**
  * Purpose:
- * 	Abstract stat block chart for a creature
+ * 	stat block chart for a race
  * @author Joshua S. Andrews
  *
  */
-public abstract class Race {
+public class Race {
     private String name;
     private String desc; // Description of a race
     private int[] bonus;
