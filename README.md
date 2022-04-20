@@ -1,7 +1,7 @@
 # AdventureGame/Goblin King
 A 3D game developed on UE5
 
-I. Executive Summary
+I. Executive Summary;
 	A. Game Concept
 		1. A leader has united the tribes and is threatening surrounding towns
 	B. Genre
