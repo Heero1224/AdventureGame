@@ -5,7 +5,7 @@ I. Executive Summary
 
 	A. Game Concept
 	
-		1. A leader has united the tribes and is threatening surrounding towns
+		1. A leader has united the goblin tribes and is threatening surrounding towns
 		
 	B. Genre
 	
